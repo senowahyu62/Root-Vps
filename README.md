@@ -1,6 +1,5 @@
 __DEBIAN | UBUNTU__
 
-![Minion](https://octodex.github.com/images/dojocat.jpg)
 
 
 
